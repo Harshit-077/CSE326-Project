@@ -80,6 +80,7 @@ html{
 }
 
 
+
 #navbar ul li a:hover{
     color: black;
     background-color: white;
@@ -275,6 +276,7 @@ footer{
     border-radius: 10px;
     cursor:pointer;
 }
+
 
 #home .btn a {
     color: white;
